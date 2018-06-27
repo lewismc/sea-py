@@ -1,4 +1,3 @@
-./404.html
 ./about/index.html
 ./code/title_pics.py
 ./css/base.css
@@ -30,12 +29,12 @@
 ./js/jquery-1.10.2.min.js
 ./js/mathjaxhelper.js
 ./license/highlight.js/LICENSE
-./mkdocs/js/lunr.min.js
-./mkdocs/js/mustache.min.js
-./mkdocs/js/require.js
-./mkdocs/js/search-results-template.mustache
-./mkdocs/js/search.js
-./mkdocs/js/text.js
-./mkdocs/search_index.json
+./search/lunr.min.js
+./search/mustache.min.js
+./search/require.js
+./search/search-results-template.mustache
+./search/search.js
+./search/search_index.json
+./search/text.js
 ./sitemap.xml
 ./webresources/index.html
